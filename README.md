@@ -15,13 +15,18 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Screnshots 
 
+![1](https://github.com/caiman48/James-react-portfolio/assets/102683872/828a1fc4-ccee-4224-a6b8-0ae554728c5a)
 
 
+![2](https://github.com/caiman48/James-react-portfolio/assets/102683872/1b5ffc58-c4ed-41fb-af9e-5fae0af47919)
+
+![3](https://github.com/caiman48/James-react-portfolio/assets/102683872/63562a6a-1d8d-4ea2-85ff-18d077dd54dd)
 
 
+![4](https://github.com/caiman48/James-react-portfolio/assets/102683872/33320e61-28a1-47ab-986c-b74cb4ee6c9b)
 
 
-
+![5](https://github.com/caiman48/James-react-portfolio/assets/102683872/98daaecf-771d-42c1-8c3f-363374ccd087)
 
 
 
